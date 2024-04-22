@@ -5,7 +5,7 @@ const UserInfo = () => {
       <div className="userInfoo">
         <div className="user">
           <img src="./avatar.png" alt="" />
-          <h2>Wolf Sharma</h2>
+          <h2>Wolf</h2>
         </div>
         <div className="icons">
           <img src="./more.png" alt="" />
