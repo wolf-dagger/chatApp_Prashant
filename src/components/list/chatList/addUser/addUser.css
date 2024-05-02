@@ -18,6 +18,8 @@
     input {
       padding: 20px;
       border-radius: 10px;
+      background-color: rgba(7, 31, 75, 0.9);
+      color: white;
       border: none;
       outline: none;
     }
